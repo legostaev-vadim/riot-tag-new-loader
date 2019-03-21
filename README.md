@@ -2,7 +2,7 @@
 
 **Riot** new **webpack** loader
 
-- **Example Riot-App [Online](http://271877.playcode.io/#!/list)**
+- **Example Riot-App [Online](http://272758.playcode.io/#!/list)**
 
 # Install
 
