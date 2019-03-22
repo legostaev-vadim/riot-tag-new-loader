@@ -2,7 +2,6 @@ const riot = require('riot-compiler')
 const loaderUtils = require('loader-utils')
 const _ = require('lodash')
 
-
 module.exports = function (source) {
 
   _.merge(riot, loaderUtils.getOptions(this))
