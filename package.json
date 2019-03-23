@@ -1,7 +1,7 @@
 {
   "name": "riot-tag-new-loader",
-  "version": "1.0.12",
-  "description": "Riot new webpack loader",
+  "version": "1.0.14",
+  "description": "Riot new Webpack loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
