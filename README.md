@@ -2,7 +2,7 @@
 
 **Riot** new **Webpack** loader
 
-- **Example Riot-App [Online](http://272758.playcode.io/#!/list)**
+- **Example Riot-App [Online](http://353492.playcode.io/#!/list)**
 - **Example Riot-App [Git](https://github.com/legostaev-vadim/riot-app)**
 - **[Gulp](https://www.npmjs.com/package/gulp-riot-tag)**
 
