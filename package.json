@@ -1,6 +1,6 @@
 {
   "name": "riot-tag-new-loader",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Riot new Webpack loader",
   "main": "index.js",
   "scripts": {

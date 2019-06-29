@@ -1,4 +1,4 @@
-# riot-tag-new-loader
+# riot-tag-new-loader (Riot.js version 3 only)
 
 **Riot** new **Webpack** loader
 
