@@ -6,6 +6,16 @@
 - **Example Riot-App [Git](https://github.com/legostaev-vadim/riot-app)**
 - **[Gulp](https://www.npmjs.com/package/gulp-riot-tag)**
 
+
+***
+**Example for Autoprefixer and Babel for Riot.js version 4**
+
+1. [Install official loader](https://www.npmjs.com/package/@riotjs/webpack-loader)
+2. [webpack.config.js](https://github.com/legostaev-vadim/riot-app/blob/master/v4/webpack.config.js)
+3. [example](https://github.com/legostaev-vadim/riot-app/tree/master/v4)
+***
+
+
 # Install
 
 ```
