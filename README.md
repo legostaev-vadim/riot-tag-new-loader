@@ -12,7 +12,7 @@
 
 1. [Install official loader](https://www.npmjs.com/package/@riotjs/webpack-loader)
 2. [webpack.config.js](https://github.com/legostaev-vadim/riot-app/blob/master/v4/webpack.config.js)
-3. [example](https://github.com/legostaev-vadim/riot-app/tree/master/v4)
+3. [example app](https://github.com/legostaev-vadim/riot-app/tree/master/v4)
 ***
 
 
